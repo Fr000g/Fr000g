@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fr000g
 - 👀 I’m interested in CTF
-- 🌱 I’m currently learning software engineering
+- 📖 I’m currently learning network engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
